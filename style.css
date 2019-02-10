@@ -75,3 +75,15 @@ body {
     text-align: center;
     font-family: Sarabun, Arial, Helvetica, sans-serif;
 }
+
+#mixcloud {
+    width: 40%;
+    margin: 20px auto 5px auto;
+}
+
+#mixcloud p {
+    width: 40%;
+    margin: 0 auto 30px auto;
+    text-align: center;
+    font-family: monospace;
+}
